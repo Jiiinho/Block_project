@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=1340, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="IE=edge">
+    <title>발표자료</title>
+    <meta name="robots" content="index,follow">
+    <meta name="author" content="Smilegate RPG">
+    <meta name="keywords" content="로스트아크, LOST ARK, 스마일게이트, Smilegate, 스마일게이트 알피지, Smilegate RPG, 롤플레잉, RPG, MMORPG">
+    <meta name="description" content="스마일게이트 알피지의 차세대 핵&amp;amp;슬래쉬 MMORPG 로스트아크">
+    <meta name="format-detection" content="telephone=no, email=no">
+    <link rel="shortcut icon" href="https://cdn-lostark.game.onstove.com/2018/obt/assets/images/common/icon/favicon.ico?v=20221116075127">
+    <link rel="icon" href="https://cdn-lostark.game.onstove.com/2018/obt/assets/images/common/icon/favicon-192.png?v=20221116075127" sizes="192x192">
+    <!--[if lte IE 9]><script>location.href = '/BrowserUpgrade'</script><![endif]-->
+    <!-- Open Graph (Default) -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:image" content="https://cdn-lostark.game.onstove.com/2018/obt/assets/images/common/thumb/devil_hunter.png?v=20221116075127">
+    <meta property="og:url" content="https://lostark.game.onstove.com/Profile/Character">
+    <meta property="og:title" content="로스트아크 - 전투정보실">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://cdn-lostark.game.onstove.com/2018/obt/assets/images/common/thumb/devil_hunter.png?v=20221116075127">
+    <meta property="og:image:width" content="400">
+    <meta property="og:image:height" content="400">
+
+    
+    <script src="https://cdn-lostark.game.onstove.com/fonts/fonts.js?v=20221116075127"></script>
+    <link rel="stylesheet" href="https://cdn-lostark.game.onstove.com/2018/obt/assets/css/fonts.css?v=20221116075127">
+    <link rel="stylesheet" href="https://cdn-lostark.game.onstove.com/2018/obt/assets/css/pc.css?v=20221116075127">
+    <script src="https://cdn-lostark.game.onstove.com/2018/obt/assets/js/vendor.js?v=20221116075127"></script>
+
+    
+    <link rel="stylesheet" href="https://cdn-lostark.game.onstove.com/2018/obt/assets/css/profile.pc.css?v=20221116075127">
+
+
+
+    <meta name="naver-site-verification" content="85ffc0c94b5b942676df16d9100d33ac796f4916" />
+</head>
+
+<body>
+
+        <div class="stove-wrapper"></div>
+
+    
+<div id="lostark-wrapper" class="lostark-wrapper lostark-pc lostark-sub lostark-profile">
+
+
+<header class="header">
+    <h1><a href="/Main">로스트아크</a></h1>
+
+    <nav class="nav">
+        <h2>내비게이션</h2>
+        <ul>
+            <li>
+                <a href="/News/Notice/List" class="">새소식</a>
+                
+            </li>
+            <li>
+                <a href="/Profile/Character" class="nav__item--active">게임정보</a>
+            </li>
+            <li>
+                <a href="/GameGuide" class="" target="_blank">가이드</a>
+            </li>
+            <li>
+                <a href="/Community/Free/List" class="">커뮤니티</a>
+            </li>
+            <li>
+                <a href="/Video" class="">미디어</a>
+                
+            </li>
+            <li>
+                <a href="/Market" class="">거래소</a>
+                
+            </li>
+            <li>
+                <a href="/Shop" class="">웹 샵</a>
+                
+            </li>
+            <li>
+                <a href="http://help.onstove.com/web/faq/serviceMain/page?game_nm=LOST_ARK&amp;game=2017090003&amp;channel=stove" class="" target="_blank">고객센터</a>
+                
+            </li>
+            <li>
+                <a href="/Promotion/Esports/220112" target="_blank">E-SPORTS</a>
+            </li>
+            <li>
+                <a href="/News/TesterNotice/List" class="">테스터</a>
+                
+            </li>
+        </ul>
+    </nav>
+
+    <div class="header-menu">
+        <h2>상단 메뉴</h2>
+        <div>
+            
+                <span class="header-menu__login"><a href="https://member.onstove.com/auth/login?inflow_path=lost_ark&amp;game_no=45&amp;redirect_url=https%3a%2f%2flostark.game.onstove.com%2fProfile%2fCharacter%2f%ed%8a%b8%eb%9f%ac%eb%b8%94%ec%8a%88%ed%8c%85" class="button button--header-login">로그인</a></span>
+
+            <span class="header-menu__pcbang header-menu__pcbang--on">PC방 OFF</span>
+            
+            <span class="header-menu__gamestart"><button type="button" class="button button--header-gamestart" onclick="javascript: Game.Exec();">게임시작</button></span>
+        </div>
+    </div>
+
+    
+
+    <div id="expand-myinfo" class="header-myinfo">
+    </div>
+
+    <div id="expand-alarm" class="header-alarm">
+    </div>
+</header>
+    <div class="middle">
+
+            <section class="sub-banner">
+                
+
+<h2>이벤트 &amp; 업데이트</h2>
+    <div class="swiper-container">
+        <div class="swiper-wrapper">
+                <div class="swiper-slide " style="background-image: url('https://cdn-lostark.game.onstove.com/uploadfiles/banner/22eb91620a754f50a5bc45cb06f80d62.jpg'); background-color: #2d2119;">
+					<a href="/Promotion/Update/221109/Landing" target="_self">2022 로스트아크 4주년 축제</a>
+				</div>
+                <div class="swiper-slide " style="background-image: url('https://cdn-lostark.game.onstove.com/uploadfiles/banner/8e0acfd4dd9444ee9900376c7b87df13.jpg'); background-color: #3e6e56;">
+					<a href="/Promotion/Island/221109" target="_self">4주년 기념 기원의 섬</a>
+				</div>
+                <div class="swiper-slide " style="background-image: url('https://cdn-lostark.game.onstove.com/uploadfiles/banner/068b53806d234b7ca9ce685ace598db4.jpg'); background-color: #1b0e0b;">
+					<a href="/Promotion/LOAON/221109" target="_self">LOA ON WINTER 사전 안내</a>
+				</div>
+                <div class="swiper-slide " style="background-image: url('https://cdn-lostark.game.onstove.com/uploadfiles/banner/2895393fda89432791d34692c3a5b1e5.jpg'); background-color: #b7ddff;">
+					<a href="/Promotion/Package/221109" target="_self">위대한 모험의 노래 패키지</a>
+				</div>
+                <div class="swiper-slide " style="background-image: url('https://cdn-lostark.game.onstove.com/uploadfiles/banner/d12d3d959aeb436e99db65d564d6339e.jpg'); background-color: #080504;">
+					<a href="/Promotion/Mission/221109" target="_self">추억의 촛불 밝히기</a>
+				</div>
+                <div class="swiper-slide " style="background-image: url('https://cdn-lostark.game.onstove.com/uploadfiles/banner/5124f00a986240a798102cc83a5d1a23.jpg'); background-color: #0e1114;">
+					<a href="/Promotion/AttendCheck/v3/25" target="_self">4주년 기념 특별 출석 이벤트</a>
+				</div>
+                <div class="swiper-slide " style="background-image: url('https://cdn-lostark.game.onstove.com/uploadfiles/banner/a0ae571fe9084066a44cb95c37529231.jpg'); background-color: #c0a591;">
+					<a href="/Promotion/Attendcheck/221109" target="_self">도전 출근왕</a>
+				</div>
+                <div class="swiper-slide " style="background-image: url('https://cdn-lostark.game.onstove.com/uploadfiles/banner/36bd6ec872b04cf889ec1f11485e1347.jpg'); background-color: #eaa178;">
+					<a href="/Promotion/Update/221026/Pletze" target="_self">신규 대륙 플레체 UPDATE</a>
+				</div>
+                <div class="swiper-slide " style="background-image: url('https://cdn-lostark.game.onstove.com/uploadfiles/banner/89a6381eeb51425081d398faaea91fed.jpg'); background-color: #0050e9;">
+					<a href="/Promotion/Collaboration/221026" target="_self">스트릿 모코코 패키지 출시!</a>
+				</div>
+                <div class="swiper-slide " style="background-image: url('https://cdn-lostark.game.onstove.com/uploadfiles/banner/cb0564d142e947c39b8f8695968f9b81.jpg'); background-color: #331612;">
+					<a href="/Promotion/Mission/221026" target="_self">플레체 아트 투어</a>
+				</div>
+                <div class="swiper-slide " style="background-image: url('https://cdn-lostark.game.onstove.com/uploadfiles/banner/a16c6fdfc1964634b2c58ea1fd93c6a3.jpg'); background-color: #b27560;">
+					<a href="/Promotion/AttendCheck/v3/24" target="_self">11월 출석 이벤트</a>
+				</div>
+                <div class="swiper-slide " style="background-image: url('https://cdn-lostark.game.onstove.com/uploadfiles/banner/a6ce87f1396248a3afaeab0f12db6d1e.jpg'); background-color: #23491b;">
+					<a href="/Promotion/Collaboration/221026v2" target="_self">로스트아크 카드, 계속되는 기분 좋은 혜택</a>
+				</div>
+                <div class="swiper-slide " style="background-image: url('https://cdn-lostark.game.onstove.com/uploadfiles/banner/2fb657f51f2b448e962130a4465ba3b8.jpg'); background-color: #dbcbb9;">
+					<a href="/Promotion/PcRoom/221012" target="_self">PC방 해피위크 PLUS</a>
+				</div>
+        </div>
+        <div class="swiper-control">
+            <div class="swiper-button-prev"></div>
+            <div class="swiper-play"><button type="button" class="button button--sub-banner-play">자동재생/정지</button></div>
+            <div class="swiper-pagination"></div>
+            <div class="swiper-counter"></div>
+            <div class="swiper-button-next"></div>
+            <div class="swiper-event"><a href="/News/Event/Now">이벤트 모아보기</a></div>
+        </div>
+    </div>
+            </section>
+
+        
+<main>
+    <div class="content content--profile">
+            <div class="profile-character-info" aria-label="대표캐릭터">
+                <img class="profile-character-info__img" src="https://cdn-lostark.game.onstove.com/2018/obt/assets/images/common/thumb/emblem_bard.png">
+                <span class="profile-character-info__lv">유해차단 보안 솔루션</span>
+                <span class="profile-character-info__name"></span>
+                <span class="profile-character-info__server" >윤건영,박진호,박진환</span>
+            </div>
+
+        <div class="profile-search">
+            <form action="">
+                <fieldset>
+                    <input type="text" class="input input--profile-search" maxlength="12" value="" placeholder="한국 직업능력 교육원(안산)">
+                    <button type="submit" class="button button--profile-search">조회하기</button>
+                </fieldset>
+            </form>
+        </div>
+
+        <div class="profile-ingame">
+                <div class="profile-info">
+        
+        <div class="level-info2">
+            <div class="level-info__expedition"><span>윤건영</span><span><small>팀장<br>계획 수립<br>소스코드 제작<br>소스코드 수정</small></span></div>
+            <br>
+            <div class="level-info__expedition"><span>박진호</span><span><small>소스코드 제작<br>웹페이지 제작<br>Prezi 제작</small></span></div>
+            <br>
+            <div class="level-info__expedition"><span>박진환</span><span><small>자료조사<br>DB연동<br>DB 테이블표 제작</small></span></div>
+            
+        </div>
+        
+    </div>
+    <div class="profile-character" >
+        <div id="profile-tab" class="lui-tab profile-tab" >
+            <div class="lui-tab__menu" >
+                <a>작업 툴</a>
+                <a>DB연동</a>
+                <a>소스코드 작성</a>
+                <a>웹페이지 제작</a>
+                <a>트러블 슈팅</a>
+            </div>
+
+            <div id="profile-ability" class="lui-tab__content profile-ability">
+                <div class="lui-tab profile-ability-tab">
+  
+
+    <div id="profile-equipment" class="lui-tab__content profile-equipment">
+            <div class="profile-equipment__character basic_img"><img src="https://cdn-lostark.game.onstove.com/2018/obt/assets/images/pc/profile/devil_hunter.png" alt="데빌헌터"></div>
+
+    
+</div>
+
+
+    <div id="profile-avatar" class="lui-tab__content profile-avatar">
+            <div class="profile-equipment__character basic_img"><img src="https://cdn-lostark.game.onstove.com/2018/obt/assets/images/pc/profile/devil_hunter.png" alt="데빌헌터"></div>
+
+    
+</div>
+
+    <div id="profile-jewel" class="lui-tab__content profile-jewel">
+    <div class="jewel-effect__wrap">
+        <div class="jewel__wrap">
+        </div>
+        <div class="jewel-effect__list">
+            
+            <div class="box_wrapper">
+                   
+            </div>
+        </div>
+    </div>
+</div>
+
+
+    <div id="profile-card" class="lui-tab__content profile-card">
+    <div id="card-tab" class="profile-card__list">
+        <div class="card-set__button">
+        </div>
+        <ul id="cardList" class="card-list">
+        </ul>
+    </div>
+    <div class="profile-card__text">
+       
+    
+</div>
+
+</div>
+<div class="profile-ability-basic">
+    <h4>기본 특성</h4>
+   
+</div>
+<div class="profile-ability-battle">
+    <h4>전투 특성</h4>
+   
+</div>
+
+</main>
+ 
+</footer></div>
+
+    <script type="text/javascript">
+        var _DM_STOVE_STATIC = "//static-new.onstove.com";
+        var _DM_STOVE_LOGIN = "https://member.onstove.com/auth/login?inflow_path=lost_ark&amp;game_no=45&amp;redirect_url=";
+        var _DM_STOVE_MEMBER = 'https://member.onstove.com';
+    </script>
+    <script type="text/javascript" src="/Content/Stove/GNB.js?v=20220511074717"></script>
+
+    
+    
+    <!-- Global -->
+    <script>
+        $.DateTimeNow = 1668670052980;
+        $.ItemDicDomain = 'https://lostark.game.onstove.com';
+        $.StaticDomain = 'https://cdn-lostark.game.onstove.com';
+    </script>
+    <!-- // Global -->
+        <!-- Page UI -->
+        <script src="https://cdn-lostark.game.onstove.com/2018/obt/assets/js/pc.js?v=20221116075127"></script>
+        <!-- // Page UI -->
+
+    
+    <script>
+        (function () {
+            setTimeout(function () {
+				    lui.layout.sub();
+                lui.profile.init();
+                lui.profile.ability();
+                lui.profile.skill();
+            }, 50); //페이지가 랜더링 후에 호출되어야 한다.
+        })();
+    </script>
+
+
+    <script type="text/javascript" src="/Content/Common.js?v=20220803074620"></script>
+    <script type="text/javascript" src="/Content/Common.PC.js?v=20220914101811"></script>
+    <script type="text/javascript" src="/Content/Firebase.js?v=20220615074344"></script>
+
+    
+
+    
+    <script type="text/javascript">
+        var _sourceType = '';
+    </script>
+
+    
+    <script type="text/javascript" src="/Content/Profile.js?v=20220727074255"></script>
+    <script type="text/javascript">
+		var _memberNo = 'v5t5yqsJ+vVMjPI6+h2+4fLUGMG3Ae0TrQo8I+d0S0k=';
+		var _pcId = 'nbkuLQLYzHHqUrwJyI86pgk7um6R6Kjulz/X+Vv5dUo=';
+		var _worldNo = '8+i8qJc9jUM3yk0g1g/Opg==';
+		var _pcName = '트러블슈팅';
+		var _pvpLevel = '0';
+
+			
+
+			this.setDexie("profileSearch", "트러블슈팅", 9);
+
+			$(document).ready(function () {
+                lui.profile.StatesGraph([
+                {
+                    id: '#chart-states',
+                    value: [0,
+                            0,
+                            0,
+                            0], // 성향 그래프 수치
+                    max: 1000
+                }])
+
+				profileTabLoad(2);
+				profileTabLoad(3);
+
+				/* 탭 */
+				var tab = new lui.utils.Tab({
+					target: document.querySelector('#profile-tab'),
+					initTabIndex: 0,
+					cbInit: function (e) { // init callback
+						$('.lostark-profile #profile-tab .lui-tab__menu a').eq(0).addClass("active");
+					},
+					cbChange: function (e) { // change callback
+						$('.lostark-profile #profile-tab .lui-tab__menu a').removeClass("active");
+						$('.lostark-profile #profile-tab .lui-tab__menu a').eq(e.index).addClass("active");
+					}
+				});
+			})
+
+
+			
+
+
+
+    </script>
+
+
+
+
+        <script type="text/javascript">
+            $.GameNo = 45;
+        </script>
+        <script type="text/javascript" src="//static-new.onstove.com/sl-3.0.0/stove-launcher.js" async defer></script>
+        <script type="text/javascript" src="/Content/Stove/Launcher.js?v=20200226081037"></script>
+
+
+    <script src="//dvudc0gwzz5wc.cloudfront.net/lostark/lostark_81plug_2.3.min.js"></script>
+    <script>
+        (function _81plug(stoveLog) {
+
+            if (stoveLog === "undefined") {
+                return;
+            }
+
+            try {
+                //device detection
+                var cli_type = 'pc';
+
+                stoveLog.identity({
+                    user: '',
+                    log_type: 'web',
+                    cli_type: cli_type,
+                    environment: 'Live',
+                    game_code: 'lostark',
+                    event_code: ''
+                });
+                stoveLog.view({
+                    view_info: {
+                        view_type: 'pageView'
+                    }
+                });
+            } catch (e) {
+                console.log(e);
+            }
+
+        }(stoveLog));
+
+    </script>
+
+        <script type="text/javascript" src="/Content/Stove/bucky_live_min.js?v=20181025140554" data-bucky-host="/bucky" data-bucky-page="lostark-web-Live" data-bucky-requests></script>
+
+</body>
+</html>
